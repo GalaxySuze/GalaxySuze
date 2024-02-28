@@ -5,4 +5,5 @@ I'm **Vick**, a web development programmer. I like to use PHP/Golang/Laravel/Vue
 
 - 🌏 I'm currently working in Shanghai
 - 🎈 My blog: [https://kisstime.top/](https://kisstime.top/)
-- ✨ My knowledge base: [https://www.yuque.com/galaxyroam](https://www.yuque.com/galaxyroam)
+- ✨ My knowledge base:
+  - [https://www.yuque.com/galaxyroam](https://www.yuque.com/galaxyroam)
